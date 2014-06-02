@@ -1,5 +1,5 @@
 {
-    "name": "kendoctor/dimension-binder",
+    "name": "kendoctor/dimension-binder-component",
     "type": "library",
     "description": "Its a 2d dimension binder to bind array elements in table cells",
     "minimum-stability": "dev",
