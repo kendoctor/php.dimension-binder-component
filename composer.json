@@ -10,6 +10,9 @@
             "email": "kendoctor@163.com"
         }
     ],
+    "require-dev": {
+        "phpsepc/phpspec" : "*"
+    },
     "autoload":{
         "psr-0" : {
             "Kendoctor\\Component\\DimensionBinder" : "src/"
